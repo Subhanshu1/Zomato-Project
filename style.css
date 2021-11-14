@@ -307,6 +307,10 @@ div > ul {
     margin-top: -1rem;
     color: #fff;
 }
+
+div > ul > li{
+    margin: 5px 0;
+}
 ul {
     list-style-type: none;
     margin: 0;
